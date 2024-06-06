@@ -52,7 +52,7 @@ Be able to navigate the machine learning literature, compare different models, a
 
 ## Repository Content
 This repository contains four projects completed during the year, reflecting the concepts listed above. These projects are:
-0. **Challenge 0: Basics, Linear and Logistic Regression**
-1. **Challenge 1: Application of different Supervised Learning and Unsupervised Learning methods, studying bias-variance trade-off and evaluation methods**
-2. **Challenge 2: Implementation of Support Vector Machines and Principal Component Analysis with kernel methods, applying the studied notions**
-3. **Challenge 3: Neural Network, comparison between Fully Connected and Convolutional Networks**
+- **Challenge 0: Basics, Linear and Logistic Regression**
+- **Challenge 1: Application of different Supervised Learning and Unsupervised Learning methods, studying bias-variance trade-off and evaluation methods**
+- **Challenge 2: Implementation of Support Vector Machines and Principal Component Analysis with kernel methods, applying the studied notions**
+- **Challenge 3: Neural Network, comparison between Fully Connected and Convolutional Networks**
